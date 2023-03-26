@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rustam G!</h1>
+<h1 align="center">Hi 👋, I'm Rustam Garayev!</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **User Management System**
+- 🔭 I’m currently working on **AWS based User Management System**
 
 - 🌱 I’m currently learning **SQLAlchemy, ipywidgets, pydantic**
 
@@ -9,13 +9,13 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rgarayev](https://medium.com/@rgarayev)
 
-- 💬 Ask me about **python, django, web scraping**
+- 💬 Ask me about **python, django, oop, web scraping**
 
 - 📫 How to reach me **rustem.qarayev02@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing](https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing)
 
-- ⚡ Fun fact **APE**
+- ⚡ Fun fact **The first-ever computer mouse was made of wood**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

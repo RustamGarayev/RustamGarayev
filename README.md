@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://rustamg-portfolio.us.aldryn.io/](http://rustamg-portfolio.us.aldryn.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@rgarayev](https://medium.com/@rgarayev)
+<!-- - 📝 I regularly write articles on [https://medium.com/@rgarayev](https://medium.com/@rgarayev) -->
 
 - 💬 Ask me about **python, django, oop, web scraping**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing](https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing)
 
-- ⚡ Fun fact **The first-ever computer mouse was made of wood**
+<!-- - ⚡ Fun fact **The first-ever computer mouse was made of wood** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

@@ -16,7 +16,7 @@ Got questions on Python, Django, or web scraping? Drop me a line at **rustem.qar
 - Resume: [have a look](https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing)
 
 ## Let's Connect
-[LinkedIn](https://linkedin.com/in/rustam-garayev-86483416b) | [Stack Overflow](https://stackoverflow.com/users/11923558) | [Medium](https://medium.com/@rgarayev)
+[LinkedIn](https://linkedin.com/in/rustam-garayev) | [Stack Overflow](https://stackoverflow.com/users/11923558) | [Medium](https://medium.com/@rgarayev)
 
 ## Languages and Tools:
 <p align="left"> 

@@ -12,8 +12,8 @@ A curious coder who loves solving problems. I build, I break, I fix. Rinse and r
 Got questions on Python, Django, or web scraping? Drop me a line at **rustem.qarayev02@gmail.com**!
 
 ## Find Me Here
-- Portfolio: [right here](http://rustamg-portfolio.us.aldryn.io/)
-- Resume: [have a look](https://drive.google.com/file/d/1TjSDp7Fu6cnX5zGOirZ5AyQZ4w2hH9aX/view?usp=sharing)
+- Portfolio: [right here](https://rgydigital.com/)
+- Resume: [have a look](https://docs.google.com/document/d/1ovdrK6JupanEVqR8oAwcL_ACW9LhLa9iJp_QxdvEt4U/edit?usp=sharing)
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/rustam-garayev) | [Stack Overflow](https://stackoverflow.com/users/11923558) | [Medium](https://medium.com/@rgarayev)

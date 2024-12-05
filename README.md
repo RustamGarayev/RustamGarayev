@@ -1,19 +1,18 @@
-# 🌪️ Rustam: Where Challenges Meet Solutions
+I’m a Software Engineer with over 6+ years of experience building software products, ranging from e-commerce to real-time analytics platforms. 
 
-## Who Am I?
-A curious coder who loves solving problems. I build, I break, I fix. Rinse and repeat. 🚀
+My expertise lies in Python, Django, FastAPI, and AWS, and I focus on writing clean, scalable code that’s ready for the future.
 
-## What's Cooking?
-- **Data Voyager**: Harnessing AI to interact with 80+ networks for comprehensive data insights.
-- **Django Architect**: Building complex, scalable Django applications that solve real-world problems.
-- **Telegram Maestro**: An advanced service fetching messages from public channels.
+## Who am I?
+- Someone who is passionate about solving problems. 
+- Someone who embraces self-improvement, stress and difficulty. 
+- Someone who is committed to not only honing his own skills, but also to empowering those around
 
-## Talk Tech to Me
-Got questions on Python, Django, or web scraping? Drop me a line at **rustem.qarayev02@gmail.com**!
-
-## Find Me Here
-- Portfolio: [right here](https://rgydigital.com/)
-- Resume: [have a look](https://docs.google.com/document/d/1ovdrK6JupanEVqR8oAwcL_ACW9LhLa9iJp_QxdvEt4U/edit?usp=sharing)
+## Industries worked:
+- Pharmaceutical
+- Gaming
+- Marketing Effectiveness
+- Global Hiring
+- Banking
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/rustam-garayev) | [Stack Overflow](https://stackoverflow.com/users/11923558) | [Medium](https://medium.com/@rgarayev)

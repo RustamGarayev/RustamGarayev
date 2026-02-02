@@ -1,16 +1,36 @@
-I’m a Software Engineer with over 6+ years of experience building software products, ranging from e-commerce to real-time analytics platforms. 
+# Hey, I'm Rustam 👋
 
-My expertise lies in Python, Django, FastAPI, and AWS, and I focus on writing clean, scalable code that’s ready for the future.
+Software Engineer • 7+ years • Building AI-powered products
 
-## Industries worked:
-- Pharmaceutical
-- Gaming
-- Marketing Effectiveness
-- Global Hiring
-- Banking
+Currently running **[RGY Digital](https://rgydigital.com)** — an AI automation agency helping businesses do more with less.
 
-## Let's Connect
-[LinkedIn](https://linkedin.com/in/rustam-garayev) | [Stack Overflow](https://stackoverflow.com/users/11923558)
+## Stack
+`Python` `Django` `FastAPI` `LangChain` `LangGraph` `AWS` `PostgreSQL`
+
+## Products Built
+
+| Product | What it does |
+|---------|-------------|
+| **RGY Digital** | AI chatbot platform + mobile app — handles customer support across WhatsApp, Instagram, Facebook, TikTok, and web |
+| **Moodhero** | Understand your partner emotions and feelings |
+| **Buck4Bug** | Cybersecurity platform for Bug Bounty & Penetration Testing programs (built from 0 → production) |
+| **Revisto** | MLR compliance engine for pharma — optimized processing by 85% |
+| **Spill** | AI generates rumor about your life day-to-day |
+| **TeamsOS** | Hiring intelligence tools to find ideal candidate for your company |
+| **Penseur AI** | Automated audit tool to help CTO's stay on top of the game |
+| **Capstacker** | Helping early stage founders find talent with alternative payment options |
+
+## Recent Work
+- Multi-agent AI systems with LangGraph
+- Agentic hiring and audit platform
+- Document processing pipelines with RAG
+
+## Get in Touch
+- info@rgydigital.com
+- [LinkedIn](https://linkedin.com/in/rustamgarayev)
+- [Stack Overflow](https://stackoverflow.com/users/11923558)
+---
+*Based in Estonia 🇪🇪 • From Azerbaijan 🇦🇿 • Working globally*
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustamgarayev&show_icons=true&locale=en&layout=compact" alt="rustamgarayev" /></p>
